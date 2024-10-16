@@ -18,7 +18,7 @@ A case study on understanding customer churn in the telecom industry. The analys
 **Technologies Used**
 - SQL (MySQL)
 - MySQL Workbench (for running queries)
-- 
+
 **Data Sources:** Datasets in .csv format from Kaggle
   
 **Future Enhancements**
